@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CCreate"
   "CCreate.pdb"
   "CMakeFiles/CCreate.dir/src/main.cpp.o"
+  "CMakeFiles/CCreate.dir/src/main.cpp.o.d"
 )
 
 # Per-language clean rules from dependency scanning.

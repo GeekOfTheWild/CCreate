@@ -1,3 +1,0 @@
-/home/tim/code/c++/CCreate/build/CMakeFiles/CCreate.dir
-/home/tim/code/c++/CCreate/build/CMakeFiles/edit_cache.dir
-/home/tim/code/c++/CCreate/build/CMakeFiles/rebuild_cache.dir

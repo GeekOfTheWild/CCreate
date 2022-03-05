@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geekofthewild/Dev/c++/CCreate/src/main.cpp
+iostream
+-
+ctype.h
+-
+stdlib.h
+-
+unistd.h
+-
+

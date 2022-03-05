@@ -1,0 +1,3 @@
+/home/geekofthewild/Dev/c++/CCreate/build/CMakeFiles/rebuild_cache.dir
+/home/geekofthewild/Dev/c++/CCreate/build/CMakeFiles/edit_cache.dir
+/home/geekofthewild/Dev/c++/CCreate/build/CMakeFiles/CCreate.dir

@@ -48,5 +48,7 @@ int main(int argc, char *argv[])
         printf("Non-option argument %s\n", argv[index]);
     }
 
+    system("~/Dev/c++/CCreate/src/rust/target/debug/rust");
+
     return 0;
 }

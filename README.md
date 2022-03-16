@@ -25,7 +25,7 @@ to create a folder with src and build directorys, with a hello world program alr
 
 | Language | flag |
 | :--- | :--- |
-| C | -c (short for Sharp)  | 
-| C# | -s |
+| C | -c  | 
+| C# | -s (short for sharp) |
 | Java | -j |
 | Python | -p |

@@ -3,7 +3,7 @@ CCreate is a tool for Linux and other Unix based sytems in its early stages of d
 ## Installation
 Simply download the CCreate file inside of the Release folder then run 
 ```console
-cp path/to/ccreatedownload /user/local/bin 
+cp path/to/ccreatedownload /usr/local/bin 
 ```
 ### Compiling from source
 If you wish to compile  CCreate from source you must first makesure you have Git and CMake installed then run this in the command line
